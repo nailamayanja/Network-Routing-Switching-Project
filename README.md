@@ -2,9 +2,6 @@ Excel-Tec Inc — Network Transformation & Routing Design
 
 Cisco Packet Tracer project redesigning a 4-site enterprise network to resolve efficiency, security and resilience issues in the existing infrastructure. University module project (Network Routing) — **First-class, 75%**.
 
-![Network topology](topology.png)
-
-
 Scenario
 
 Excel-Tec Inc, a multi-site organisation with sites in London, Leicester, Leeds and Liverpool, needed a redesigned network to address performance, scalability and security limitations in its existing infrastructure. The brief called for a routed, segmented, and secured topology suitable for presentation to non-technical board members — the deliverable was a technical report justifying each design decision.
