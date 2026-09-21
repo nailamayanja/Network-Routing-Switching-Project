@@ -2,7 +2,7 @@ Excel-Tec Inc — Network Transformation & Routing Design
 
 Cisco Packet Tracer project redesigning a 4-site enterprise network to resolve efficiency, security and resilience issues in the existing infrastructure. University module project (Network Routing) — **First-class, 75%**.
 
-![Network toplogy](topology.png)
+![Network topology](topology.png)
 
 
 Scenario
